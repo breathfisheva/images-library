@@ -30,3 +30,8 @@ like Device, OS, Browser, Version
 ```
 
 ```
+
+## Linked issues
+```
+use #issue like #156 to link related issues
+```
