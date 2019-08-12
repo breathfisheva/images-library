@@ -15,7 +15,8 @@ like Device, OS, Browser, Version
 1.
 2.
 3.
-...
+
+
 (provide screenshot if have)
 
 ```
