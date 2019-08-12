@@ -22,10 +22,10 @@ like Device, OS, Browser, Version
 
 ## Expected Results
 ```
-A clear and concise description of what you expected to happen.
+
 ```
 
 ## Additional context
 ```
-like request curl, and other additional context.
+
 ```
